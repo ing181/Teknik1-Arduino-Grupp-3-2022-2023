@@ -1,2 +1,2 @@
 # Teknik 1 Arduino
-# Grupp 3 2022-2023
+# TE1B Grupp 1 2022-2023
